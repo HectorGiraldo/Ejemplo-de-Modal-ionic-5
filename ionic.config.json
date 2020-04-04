@@ -1,0 +1,7 @@
+{
+  "name": "pruena",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
